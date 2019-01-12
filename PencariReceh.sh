@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/python
 #version 1.0
 
 #                        MAU NGAPAIN ELU >:)
